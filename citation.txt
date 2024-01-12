@@ -1,0 +1,6 @@
+@inproceedings{REPO283,
+    author = "Song, Yunchong and Zhou, Chenghu and Wang, Xinbing and Lin, Zhouhan",
+    booktitle = "The Eleventh International Conference on Learning Representations",
+    title = "{Ordered {GNN}: Ordering Message Passing to Deal with Heterophily and Over-smoothing}",
+    year = "2023"
+}
